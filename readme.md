@@ -25,4 +25,7 @@
     支持onnx方式部署：python export.py
 
 
+参考：
+    yolox官方仓库及一些第三方开源库
+
 ​    
